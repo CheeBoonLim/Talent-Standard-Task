@@ -473,7 +473,43 @@ namespace Talent.Services.Profile.Domain.Services
         public async Task<IEnumerable<TalentSnapshotViewModel>> GetTalentSnapshotList(string employerOrJobId, bool forJob, int position, int increment)
         {
             //Your code here;
-            throw new NotImplementedException();
+            IEnumerable<User> users = (await _userRepository.Get(x => !x.IsDeleted)).Skip(position).Take(increment);
+            List<TalentSnapshotViewModel> result = new List<TalentSnapshotViewModel>();
+            foreach (var user in users)
+            {
+                String name = String.Format("{0} {1}", user.FirstName, user.LastName);
+
+                UserExperience latestExperience = user.Experience.OrderByDescending(x => x.End).FirstOrDefault();
+                String employment, level;
+                if (latestExperience != null)
+                {
+                    employment = latestExperience.Company;
+                    level = latestExperience.Position;
+                }
+                else
+                {
+                    employment = "Unknown";
+                    level = "Unknown";
+                }
+
+                List<string> skills = user.Skills.Select(x => x.Skill).ToList();
+
+                result.Add(new TalentSnapshotViewModel {
+                    Id = user.Id,
+                    Name = name,
+                    PhotoId = user.ProfilePhotoUrl,
+                    VideoUrl = user.VideoName,
+                    CVUrl = user.CvName,
+                    Summary = user.Summary,
+                    CurrentEmployment = employment,
+                    Visa = user.VisaStatus,
+                    Level = level,
+                    Skills = skills,
+                    LinkedInUrl = user.LinkedAccounts.LinkedIn,
+                    GithubUrl = user.LinkedAccounts.Github
+                });
+            }
+            return result;
         }
 
         public async Task<IEnumerable<TalentSnapshotViewModel>> GetTalentSnapshotList(IEnumerable<string> ids)

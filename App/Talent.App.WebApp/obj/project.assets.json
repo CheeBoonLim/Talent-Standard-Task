@@ -13654,11 +13654,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
       "projectName": "Talent.App.WebApp",
-      "projectPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+      "projectPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
       "packagesPath": "C:\\Users\\Pue Ling\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\App\\Talent.App.WebApp\\obj\\",
+      "outputPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\App\\Talent.App.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

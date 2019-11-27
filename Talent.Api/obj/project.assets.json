@@ -14772,11 +14772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\Talent.Api\\Talent.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\Talent.Api\\Talent.Api.csproj",
       "projectName": "Talent.Api",
-      "projectPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\Talent.Api\\Talent.Api.csproj",
+      "projectPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\Talent.Api\\Talent.Api.csproj",
       "packagesPath": "C:\\Users\\Pue Ling\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\Talent.Api\\obj\\",
+      "outputPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\Talent.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14795,8 +14795,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\Talent.Common\\Talent.Common.csproj": {
-              "projectPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\Talent.Common\\Talent.Common.csproj"
+            "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\Talent.Common\\Talent.Common.csproj": {
+              "projectPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\Talent.Common\\Talent.Common.csproj"
             }
           }
         }

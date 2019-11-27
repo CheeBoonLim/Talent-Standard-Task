@@ -11018,11 +11018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\Talent.Common\\Talent.Common.csproj",
+      "projectUniqueName": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\Talent.Common\\Talent.Common.csproj",
       "projectName": "Talent.Common",
-      "projectPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\Talent.Common\\Talent.Common.csproj",
+      "projectPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\Talent.Common\\Talent.Common.csproj",
       "packagesPath": "C:\\Users\\Pue Ling\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\Talent.Common\\obj\\",
+      "outputPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\Talent.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

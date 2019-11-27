@@ -14153,11 +14153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
+      "projectUniqueName": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
       "projectName": "Talent.Services.Profile",
-      "projectPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
+      "projectPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
       "packagesPath": "C:\\Users\\Pue Ling\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\Talent.Services.Profile\\obj\\",
+      "outputPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\Talent.Services.Profile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14176,8 +14176,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\Talent.Common\\Talent.Common.csproj": {
-              "projectPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Tasks\\Talent.Common\\Talent.Common.csproj"
+            "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\Talent.Common\\Talent.Common.csproj": {
+              "projectPath": "C:\\Users\\Pue Ling\\Desktop\\Industry Connect\\Internship\\Technical Preparation\\Talent-Standard-Task\\Talent.Common\\Talent.Common.csproj"
             }
           }
         }
