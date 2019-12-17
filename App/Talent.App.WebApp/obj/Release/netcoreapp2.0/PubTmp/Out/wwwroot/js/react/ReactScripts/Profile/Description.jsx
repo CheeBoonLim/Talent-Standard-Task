@@ -11,6 +11,7 @@ export default class Description extends React.Component {
     };
 
     handleChange(event) {
+        debugger;
         const data = Object.assign({
             summary: this.props.summary,
             description: this.props.description
